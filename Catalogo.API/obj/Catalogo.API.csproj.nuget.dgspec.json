@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Courses\\catalogo\\Catalogo.API\\Catalogo.API.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Courses\\Catalogo\\Catalogo.API\\Catalogo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Courses\\catalogo\\Catalogo.API\\Catalogo.API.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Courses\\Catalogo\\Catalogo.API\\Catalogo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Courses\\catalogo\\Catalogo.API\\Catalogo.API.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Courses\\Catalogo\\Catalogo.API\\Catalogo.API.csproj",
         "projectName": "Catalogo.API",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Courses\\catalogo\\Catalogo.API\\Catalogo.API.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Courses\\Catalogo\\Catalogo.API\\Catalogo.API.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Courses\\catalogo\\Catalogo.API\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Courses\\Catalogo\\Catalogo.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

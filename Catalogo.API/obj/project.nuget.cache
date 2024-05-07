@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CKvPtzHKEwbSNZEvsEMQHsSmOQFRYZJDGhwIkAGB52G85cVZYBpK4zcovR4nXILIJc4sABUaWkzKCrgFlszzTw==",
+  "dgSpecHash": "oaMp9Z6vuzv25pFgD2qEEVPE6mge9XhY+sefnEKfiSlPcr57BeaosNiYA3LTjQ8tDyEAiocJ6uuoA30DWtO1zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Courses\\catalogo\\Catalogo.API\\Catalogo.API.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Courses\\Catalogo\\Catalogo.API\\Catalogo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
